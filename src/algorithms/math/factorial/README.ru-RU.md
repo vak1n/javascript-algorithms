@@ -1,8 +1,8 @@
-# Factorial
+# Факториал
 
-In mathematics, the factorial of a non-negative integer `n`, 
-denoted by `n!`, is the product of all positive integers less 
-than or equal to `n`. For example:
+В математике, факториал множества неотрицательных целых чисел `n`,
+обозначается `n!`, является произведением всех натуральных чисел 
+меньше или равным `n`. Например:
 
 ```
 5! = 5 * 4 * 3 * 2 * 1 = 120
@@ -27,6 +27,6 @@ than or equal to `n`. For example:
 | 14    | 87 178 291 200              |
 | 15    | 1 307 674 368 000           |
 
-## References
+## Ссылки
 
-[Wikipedia](https://en.wikipedia.org/wiki/Factorial)
+[Википедия](https://ru.wikipedia.org/wiki/Факториал)
